@@ -18,7 +18,8 @@ Tentative calendar, Fall 2016
     <tr>
       <td>Aug 25</td>
       <td><a href="00-about-course">About the Course</a><br>
-        Syllabus</td>
+        Syllabus
+    </td>
     </tr>
     <tr>
       <td>Aug 30</td>
@@ -33,7 +34,9 @@ Tentative calendar, Fall 2016
     <tr>
       <td>Sep 06</td>
       <td><a href="03-reproducibility">Reproducibility</a><br>
-        What does it mean? Fundamental Notions</td>
+        What does it mean? Fundamental Notions<br>
+        <a href="http://ropensci.github.io/reproducibility-guide/sections/introduction/"><i class="fa fa-newspaper-o" aria-hidden="true"></i>Reproducibility Guide Introduction</a> (by ROpenSci)
+      </td>
     </tr>
     <tr>
       <td>Sep 08</td>
