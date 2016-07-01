@@ -35,7 +35,7 @@ Tentative calendar, Fall 2016
       <td>Sep 06</td>
       <td><a href="03-reproducibility">Reproducibility</a><br>
         What does it mean? Fundamental Notions<br>
-        <a href="http://ropensci.github.io/reproducibility-guide/sections/introduction/"><i class="fa fa-newspaper-o" aria-hidden="true"></i>Reproducibility Guide Introduction</a> (by ROpenSci)
+        <a href="http://ropensci.github.io/reproducibility-guide/sections/introduction/" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Reproducibility Guide Introduction</a> (by ROpenSci)
       </td>
     </tr>
     <tr>
