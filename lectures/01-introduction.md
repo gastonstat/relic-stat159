@@ -72,12 +72,6 @@ with 3 columns and 12 rows:
 - Draw a diagram with the workflow (5 mins)
 
 
-### Summary
-
-- A data analysis project can be viewed as a pipeline
-- A data analysis project involves working with files
-
-
 ### Network of relationships among files
 
 - Files can be inputs, instructions, or outputs
@@ -87,19 +81,24 @@ relationships among files
 
 ### Changes in a project
 
-Understanding that a data analysis project is subject to changes:
+Keep in mind that a data analysis project is subject to changes in:
 
 - data
 - settings and parameters
 - developer(s), maintainer(s)
 - scope
 - tools
+- etc
 
-
-> __Reproducibility__
->
-> By changing any of the considered factors, we need to be able to
+> By changing any of the previous factors, we need to be able to
 > recreate one or more parts of a project ...
 > in a timely and efficient way.
 
 
+### Summary
+
+- A data analysis project can be viewed as a pipeline
+- A data analysis project involves working with files
+- There is a network of relationships among files
+- A data analysis project may experience a variety of changes
+- Ultimate goal: being prepared to recreate the analysis 
