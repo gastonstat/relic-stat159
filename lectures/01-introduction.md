@@ -4,7 +4,7 @@ title: "Introduction"
 ---
 
 <p class="message">
-  Introduction: The Grim Picture
+  Introduction: The Data Analysis Cycle
 </p>
 
 
@@ -21,88 +21,85 @@ title: "Introduction"
 	Agenda
 </h4>
 
-- Main cornerstones of the course: __ROC__
-	+ Reproducibility
-	+ Open (Data) Science
-	+ Collaboration
-- We'll consider two reproducibility avenues:
-	- rerun your own analysis
-	- rerun your team analysis
-- In class activity (work in pairs):
-	- Open google drive
-	- Create a google sheet with two variables (X, Y)
-	- Make a scatterplot
-		+ add title, axis labels, color of points
-	- Create a google doc
-	- Add a summary of values (min, max, median, mean, sd)
-	- Include plot in doc
-	- Generate pdf of doc
-	- Write down ALL the steps to achieve this task 
-	- How many clicks?
-	- How many copy-paste?
-	- How many minor adjustments?
-	- Now add two more values to the data set
-	- And update your document (i.e. update the summary and figure)
 
-- Problems around reproducing your own work:
-	- Ignorance
-	- You don't document what you do
-	- You may or may not track changes
-	- You may never stop thinking about organization
-	- Nobody teaches you these things
-	- No one else cares enough about it
-	- You may feel copy-paste is tedious and cumbersome (but that's ok, right?)
-	- Almost never think about sharing your stuff
-	- Things that never crossed your mind
-	- ...
-	- As you're working on a project, your memory is fresh
-	- But then (6 months later) you try to redo your analysis
-	- Will you be able to do it reliably?
-	- Will you be able to do it in a short period of time?
-- Problems around scientific RR:
-	- publish or perish
-	- publication is the ultimate goal
-	- competing for publishing
-	- no time (we're all busy)
-	- reviewers don't have time to read code and run commands
-	- don't know how to do it
-	- no one will understand my code
-	- grad students come and go
-	- scientists move to new institutions
-	- a lab cannot reproduce its results
-	- things are not well organized (where is that file?, who wrote what?)
-	- technology becomes obsolete
-	- obstacles to sharing
-	- concerns about privacy, condifentiality, copyright, commercial,
-	Intellectual Property, patents, etc
-- Overall problems and costs:
-	- no established standards
-	- lack of incentives
-	- fear of sharing, fear of getting scooped
-	- these things are just for programmers
-	- there's still many locks in various fields
-	- "Reproducibility" is a large and vague adjective
-	- it takes time
-	- it requires new mindset
-	- it requires discipline
-	- many tools to learn
-	- it can be overwhelming without help (or time)
-	- it's easier said than done
+### Understanding the Data Analysis Cycle
+
+![by-the-numbers](http://www.phdcomics.com/comics/archive/phd053104s.gif)
+
+- Start point: some raw data set(s)
+- Cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Hypothesis testing
+- Simlation(s)
+- Modeling
+- Visualization(s)
+- Reporting and communicating
 
 
-There's light at the end of the tunnel
+### Toy Example
 
-- Benefits:
-	- Reduce errors (avoid self-embarrasement)
-	- Increase efficiency (in the long-run)
-	- Increase productivity (in the long-run)
-	- High ROI (in the long run)
-	- Facilitate collaboration
-	- Received more citations and recognition
-	- Coding is a lot of work, and you should let it see the screen-light
+Let's consider the cyclone data set, described in 
+[http://www.stat.ufl.edu/~winner/data/cyclone.txt](http://www.stat.ufl.edu/~winner/data/cyclone.txt), and available here:
+[http://www.stat.ufl.edu/~winner/data/cyclone.dat](http://www.stat.ufl.edu/~winner/data/cyclone.dat)
 
-- In this course:
-	- we'll discuss how to solve some of these problems
-	- we'll learn various computational tools to improve our workflow
-	- we'll talk about good practices
+`cyclone.dat` is a fixed-width delimited file, which represents a tabular data 
+with 3 columns and 12 rows:
+
+|   |   |      |
+|---|---|------|
+| 1 | 1 |  370 |
+| 1 | 2 |  452 |
+| 1 | 3 |  273 |
+| 1 | 4 |  422 |
+| 2 | 1 |  526 |
+| 2 | 2 |  624 |
+| 2 | 3 |  513 |
+| 2 | 4 | 1059 |
+| 3 | 1 |  980 |
+| 3 | 2 | 1200 |
+| 3 | 3 |  995 |
+| 3 | 4 | 1751 |
+
+
+### Activities
+
+- Form groups of 2-3 people
+- Do not code, just focus on writing brief descriptions
+- Identify the main steps (5 mins):
+	+ Write down a list of maximum 5 main steps (like a cooking recipe)
+- Identify inputs and outputs (5 mins)
+	+ For each main step, what are the input(s) and output(s)?
+- Draw a diagram with the workflow (5 mins)
+
+
+### Summary
+
+- A data analysis project can be viewed as a pipeline
+- A data analysis project involves working with files
+
+
+### Network of relationships among files
+
+- Files can be inputs, instructions, or outputs
+- Although we don't see it, there is an implicit network of 
+relationships among files
+
+
+### Changes in a project
+
+Understanding that a data analysis project is subject to changes:
+
+- data
+- settings and parameters
+- developer(s), maintainer(s)
+- scope
+- tools
+
+
+> __Reproducibility__
+>
+> By changing any of the considered factors, we need to be able to
+> recreate one or more parts of a project ...
+> in a timely and efficient way.
+
 
