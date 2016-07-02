@@ -26,8 +26,8 @@ title: "Introduction"
 
 ![by-the-numbers](http://www.phdcomics.com/comics/archive/phd053104s.gif)
 
-- Start point: some raw data set(s)
-- Cleaning and preprocessing
+- Starting point: some raw data set(s)
+- Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Hypothesis testing
 - Simlation(s)
@@ -65,11 +65,11 @@ with 3 columns and 12 rows:
 
 - Form groups of 2-3 people
 - Do not code, just focus on writing brief descriptions
-- Identify the main steps (5 mins):
+- Identify the main steps
 	+ Write down a list of maximum 5 main steps (like a cooking recipe)
-- Identify inputs and outputs (5 mins)
+- Identify inputs and outputs
 	+ For each main step, what are the input(s) and output(s)?
-- Draw a diagram with the workflow (5 mins)
+- Draw a diagram with the workflow
 
 
 ### Network of relationships among files
@@ -97,8 +97,10 @@ Keep in mind that a data analysis project is subject to changes in:
 
 ### Summary
 
-- A data analysis project can be viewed as a pipeline
+- A data analysis project can be viewed as an iterative pipeline
 - A data analysis project involves working with files
 - There is a network of relationships among files
+- It's fundamental to set up a good file structure
+- You should know how to navigate such file structure (i.e. path names)
 - A data analysis project may experience a variety of changes
-- Ultimate goal: being prepared to recreate the analysis 
+- Ultimate goal: being prepared to recreate the analysis when anything changes
