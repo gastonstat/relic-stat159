@@ -10,19 +10,30 @@ title: Syllabus
 ### Description
 
 __Statistics 159__ is a course designed to cover philosophy, software tools, 
-processes and best practices for reproducible computational research.
+principles and best practices for reproducible computational research.
 
 Prerequisites: Statistics 133, Statistics 134, and Statistics 135 (or equivalent)
 
 
 ### Course cornerstones:
 
-- __Reproducibility:__ The ability to re-create a past analysis, which is 
+- __Reproducibility:__ The ability to recreate a past analysis, which is 
 crucial for good science.
-- __Automation:__ The ability to rapidly re-create an analysis when data
+- __Automation:__ The ability to rapidly recreate an analysis when data
 and/or input changes (as it always does).
 - __Communication:__ The ability to clearly present, share, and communicate 
 your work to others.
+
+
+### Grading Structure
+
+-  5% in-class presentation
+-  5% pop quizzes (during lab discussions)
+- 10% lab attendance and work
+- 20% homework
+- 20% project 1 (individual)
+- 20% project 2 (pairs)
+- 20% project 3 (4 members)
 
 
 ### Format
@@ -37,29 +48,40 @@ will culminate into a collaborative term project. The format will be interactive
 and will involve your questions, opinions, and participation.
 
 
-
-### Homework Assignments
+### Homework Policy
 
 - Weekly homework assignments are due as posted online.
-- Assignments must be turned in during lab discussion.
 - Don't wait until the last hour to do an assignment. Plan ahead and pace yourself.
 - After the due date of each assignment, we will discuss the solutions during class.
 - No late assignments will be accepted, for any reason, including, but not limited to, theft, extraordinary circumnstances, and your pet's dietary idiosyncrasies.
 - Instead of late HW, I will drop your lowest two HW scores.
 
 
-### Grading Structure
+### Pop Quiz policy
 
-- 10% attendance
-- 10% pop quizzes (during lab discussions)
-- 20% homework
-- 30% midterm
-- 30% final
+- There will be written pop quizzes during lab (between 4 and 5 approx)
+- I will drop the lowest quiz score
+- No makeup quizzes (no exceptions)
 
 
-### Advice for success
+### Project Policy
 
-Try to solve all exercises in each chapter: Some show up on exams. Read all homework and exam questions carefully, and take them literally—don't try to second-guess what is meant. Attend lab discussions.
+- There will be three projects (one each month)
+- If you fail to submit one project, you will fail the course
+- I will give you a list of project requirements
+- Mmeeting all requirements gives you a B, but does not guarantee an A
+- We are expecting that you add value and personal touch to each project
+- Projects 2 and 3 cannot be done individually (you need to COLLABORATE!)
+
+
+### Collaboration Policy
+
+- You will have to work in teams (presentation, 2nd and 3rd project)
+- All team members must be knowledgeable of other members contributions
+- You will be responsible to do peer review and check each other’s work
+- It’s possible to have conflicts between team members
+- You will have to solve them (don’t ask me to solve your problems)
+- If you have a lot of commitments (sports, cal band) come talk to me ASAP
 
 
 ### <a name="email-policy"></a>Email Policy
