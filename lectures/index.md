@@ -24,7 +24,7 @@ Tentative calendar, Fall 2016
     <tr>
       <td>Aug 30</td>
       <td><a href="01-introduction">Introduction</a><br>
-        The Grim Picture</td>
+        The Data Analysis Cycle</td>
     </tr>
     <tr>
       <td>Sep 01</td>
