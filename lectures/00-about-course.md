@@ -23,30 +23,33 @@ title: "About the Course"
 
 - About you
 - Quick informal survey
-- Topics of the course (not necessarily in this order):
-	- <i class="fa fa-folder"></i> Shell (Bash) & Command Line Interface (CLI)
-	- <i class="fa fa-git"></i> Version Control with Git 
-	- <i class="fa fa-github"></i> Project Hosting with GitHub
-	- <i class="fa fa-gears"></i> Automation with GNU Make
-	- <i class="fa fa-terminal"></i> Shell scripts
-	- <i class="fa fa-spinner"></i> Running scripts non-interactively
-	- <i class="fa fa-refresh"></i> Data Analysis Project workflow
-	- <i class="fa fa-sitemap"></i> Project Organization 
-	- <i class="fa fa-hashtag"></i> Markdown
-	- <i class="fa fa-font"></i> LaTex and Beamer
-	- <i class="fa fa-arrows-alt"></i> Pandoc (document converter)
-	- <i class="fa fa-pencil-square-o"></i> Writing reports
-	- <i class="fa fa-file-code-o"></i> Dynamic documents
-	- <i class="fa fa-puzzle-piece"></i> R package "knitr"
-	- <i class="fa fa-recycle"></i> R package "rmarkdown"
-	- <i class="fa fa-sliders"></i> R package "shiny"
-	- <i class="fa fa-bar-chart"></i> Data Visualization
-	- <i class="fa fa-code"></i> Coding practices
-	- <i class="fa fa-unlock"></i> Open Science
-	- <i class="fa fa-picture-o"></i> Presentation skills
-	- <i class="fa fa-creative-commons"></i> Licenses
-	- <i class="fa fa-check-square"></i> Continuous Integration with Travis_CI?
-	- <i class="fa fa-database"></i> Managing data archives?
+
+
+#### Topics of the course (not necessarily in this order)
+
+<i class="fa fa-folder"></i> Shell (Bash) & Command Line Interface (CLI)<br>
+<i class="fa fa-git"></i> Version Control with Git <br>
+<i class="fa fa-github"></i> Project Hosting with GitHub<br>
+<i class="fa fa-gears"></i> Automation with GNU Make<br>
+<i class="fa fa-terminal"></i> Shell scripts<br>
+<i class="fa fa-spinner"></i> Running scripts non-interactively<br>
+<i class="fa fa-refresh"></i> Data Analysis Project workflow<br>
+<i class="fa fa-sitemap"></i> Project Organization <br>
+<i class="fa fa-level-down"></i> Markdown<br>
+<i class="fa fa-font"></i> LaTex and Beamer<br>
+<i class="fa fa-arrows-alt"></i> Pandoc (document converter)<br>
+<i class="fa fa-pencil-square-o"></i> Writing reports<br>
+<i class="fa fa-file-code-o"></i> Dynamic documents<br>
+<i class="fa fa-puzzle-piece"></i> R package "knitr"<br>
+<i class="fa fa-recycle"></i> R package "rmarkdown"<br>
+<i class="fa fa-sliders"></i> R package "shiny"<br>
+<i class="fa fa-bar-chart"></i> Data Visualization<br>
+<i class="fa fa-code"></i> Coding practices<br>
+<i class="fa fa-unlock"></i> Open Science<br>
+<i class="fa fa-picture-o"></i> Presentation skills<br>
+<i class="fa fa-cc"></i> Licenses<br>
+<i class="fa fa-check-square"></i> Continuous Integration with Travis_CI?<br>
+<i class="fa fa-database"></i> Managing data archives?<br>
 
 
 <h4>
