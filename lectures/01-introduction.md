@@ -77,6 +77,34 @@ with 3 columns and 12 rows:
 - Files can be inputs, instructions, or outputs
 - Although we don't see it, there is an implicit network of 
 relationships among files
+- How does a data analysis project looks like from the files standpoint
+- Understand the structure of directories and files
+- Understand the network of relationships between files
+- You'll be working with files
+	- data, code, images, docs, etc
+	- some files are inputs, some files are outputs
+	- a project is a NETWORK of relatoinships between files
+	- although you don't see it, there is a network (connections among files)
+	- FUNDAMENTAL to know where files are, and manage their pathnames
+- Navigating the file system
+	- Understand the tree structure
+	- Pathnames: absolute and relative
+- How to start organizing things
+- How to NOT organize things
+- Everything is a file, and files live in their appropriate directories
+- Here's a sample project structure:
+
+```
+project/
+	data/
+	code/
+	images/
+	report/
+	README
+```
+
+- In class activity: work with handout to write path names
+- Define teams for class presentations
 
 
 ### Changes in a project

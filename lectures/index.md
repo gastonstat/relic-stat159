@@ -28,8 +28,8 @@ Tentative calendar, Fall 2016
     </tr>
     <tr>
       <td>Sep 01</td>
-      <td><a href="02-file-system">File System</a><br>
-        File-system and Bash Intro</td>
+      <td><a href="02-typical-work-style">Typical Work Style</a><br>
+        The typical way of doing things</td>
     </tr>
     <tr>
       <td>Sep 06</td>
