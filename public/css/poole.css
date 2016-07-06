@@ -125,6 +125,10 @@ ul.fa-ul {
   margin-bottom: 0;
 }
 
+ul ul {
+  margin-bottom: 0rem;  
+}
+
 dt {
   font-weight: bold;
 }
