@@ -34,24 +34,22 @@ Tentative calendar, Fall 2016
     <tr>
       <td>Sep 06</td>
       <td><a href="03-reproducibility">Reproducibility</a><br>
-        What does it mean? Fundamental Notions<br>
-        <a href="http://ropensci.github.io/reproducibility-guide/sections/introduction/" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Reproducibility Guide Introduction</a> (by ROpenSci)
-      </td>
+        What does it mean? Fundamental Notions</td>
     </tr>
     <tr>
       <td>Sep 08</td>
-      <td><a href="04-repro-crisis-markdown">Reproducibility Crisis</a><br>
-        Why should we care about reproducibility?</td>
+      <td><a href="04-wavelab-markdown">Reproducibility Precedings</a><br>
+        WaveLab</td>
     </tr>
     <tr>
       <td>Sep 13</td>
-      <td><a href="05-git-basics">Git Basics</a><br>
-        Version Control System with Git</td>
+      <td><a href="05-crisis1-git-basics">Reproducibility Crisis 1</a><br>
+        Reinhart and Rogoff fiasco</td>
     </tr>
     <tr>
       <td>Sep 15</td>
-      <td><a href="06-makefile-basics">Makefile Basics</a><br>
-        Intoduction to automation tools</td>
+      <td><a href="06-crisis2-makefile-basics">Reproducibility Crisis 2</a><br>
+        The Potti scandal</td>
     </tr>
     <tr>
       <td>Sep 20</td>
