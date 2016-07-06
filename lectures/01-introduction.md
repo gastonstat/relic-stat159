@@ -8,23 +8,16 @@ title: "Introduction"
 </p>
 
 
-<h4>
-	<span class="fa fa-picture-o fa-lg main-list-item-icon"></span>
-	Slides
-</h4>
-
-<a href="" target="_blank">Introduction</a>
+<h3>
+	<span class="fa fa-picture-o fa-lg main-list-item-icon"></span> 
+	<a href="" target="_blank">Introduction</a>
+</h3>
 
 
-<h4>
-	<span class="fa fa-bars fa-lg main-list-item-icon"></span>
-	Agenda
-</h4>
+<a href="http://www.phdcomics.com/comics/archive/phd053104s.gif" target="_blank"><img src="http://www.phdcomics.com/comics/archive/phd053104s.gif"></a>
 
 
-### Understanding the Data Analysis Cycle
-
-![by-the-numbers](http://www.phdcomics.com/comics/archive/phd053104s.gif)
+### The Data Analysis Cycle
 
 - Starting point: some raw data set(s)
 - Data cleaning and preprocessing
@@ -42,24 +35,6 @@ Let's consider the cyclone data set, described in
 [http://www.stat.ufl.edu/~winner/data/cyclone.txt](http://www.stat.ufl.edu/~winner/data/cyclone.txt), and available here:
 [http://www.stat.ufl.edu/~winner/data/cyclone.dat](http://www.stat.ufl.edu/~winner/data/cyclone.dat)
 
-`cyclone.dat` is a fixed-width delimited file, which represents a tabular data 
-with 3 columns and 12 rows:
-
-|   |   |      |
-|---|---|------|
-| 1 | 1 |  370 |
-| 1 | 2 |  452 |
-| 1 | 3 |  273 |
-| 1 | 4 |  422 |
-| 2 | 1 |  526 |
-| 2 | 2 |  624 |
-| 2 | 3 |  513 |
-| 2 | 4 | 1059 |
-| 3 | 1 |  980 |
-| 3 | 2 | 1200 |
-| 3 | 3 |  995 |
-| 3 | 4 | 1751 |
-
 
 ### Activities
 
@@ -70,57 +45,19 @@ with 3 columns and 12 rows:
 - Identify inputs and outputs
 	+ For each main step, what are the input(s) and output(s)?
 - Draw a diagram with the workflow
+- Work with handout to write path names
 
 
 ### Network of relationships among files
 
-- Files can be inputs, instructions, or outputs
-- Although we don't see it, there is an implicit network of 
-relationships among files
-- How does a data analysis project looks like from the files standpoint
-- Understand the structure of directories and files
-- Understand the network of relationships between files
-- You'll be working with files
-	- data, code, images, docs, etc
-	- some files are inputs, some files are outputs
-	- a project is a NETWORK of relatoinships between files
-	- although you don't see it, there is a network (connections among files)
-	- FUNDAMENTAL to know where files are, and manage their pathnames
-- Navigating the file system
-	- Understand the tree structure
-	- Pathnames: absolute and relative
-- How to start organizing things
+- Classification of files (inputs, instructions, outputs)
+- How does a data analysis project looks like from the files standpoint?
+- Understanding the structure of directories and files
+- Understanding the network of relationships between files
+- It is FUNDAMENTAL to know where files are, and manage their pathnames
+- How to start organizing things?
 - How to NOT organize things
-- Everything is a file, and files live in their appropriate directories
-- Here's a sample project structure:
-
-```
-project/
-	data/
-	code/
-	images/
-	report/
-	README
-```
-
-- In class activity: work with handout to write path names
-- Define teams for class presentations
-
-
-### Changes in a project
-
-Keep in mind that a data analysis project is subject to changes in:
-
-- data
-- settings and parameters
-- developer(s), maintainer(s)
-- scope
-- tools
-- etc
-
-> By changing any of the previous factors, we need to be able to
-> recreate one or more parts of a project ...
-> in a timely and efficient way.
+- What kinds of things can change in a project?
 
 
 ### Summary
@@ -132,3 +69,6 @@ Keep in mind that a data analysis project is subject to changes in:
 - You should know how to navigate such file structure (i.e. path names)
 - A data analysis project may experience a variety of changes
 - Ultimate goal: being prepared to recreate the analysis when anything changes
+
+
+> Last but not least: Define teams for class presentations!
