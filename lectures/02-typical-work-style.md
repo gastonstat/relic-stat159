@@ -36,7 +36,8 @@ In this lecture we'll talk about the typical way of doing things
 - Include the scatterplot
 - Generate a pdf of the document
 
-__Questions__<br>
+__Questions__
+
 - How many steps to create the table?
 - How many steps to create the chart?
 - How many steps to create document in pdf?
@@ -56,6 +57,21 @@ __Questions__<br>
 
 - 3 or 6 months from now ...  Would you be able to recreate the report? Yes/No and Why?
 - Identify at least 5 factors that can affect recreating the report
+- Problems around reproducing your own work:
+	- Ignorance
+	- You don't document what you do
+	- You may or may not track changes
+	- You may never stop thinking about organization
+	- Nobody teaches you these things
+	- No one else cares enough about it
+	- You may feel copy-paste is tedious and cumbersome (but that's ok, right?)
+	- Almost never think about sharing your stuff
+	- Things that never crossed your mind
+	- ...
+	- As you're working on a project, your memory is fresh
+	- But then (6 months later) you try to redo your analysis
+	- Will you be able to do it reliably?
+	- Will you be able to do it in a short period of time?
 
 
 ### Activity 3
