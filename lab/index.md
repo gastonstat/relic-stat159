@@ -27,15 +27,15 @@ title: Lab Discussion
     </tr>
     <tr>
       <td align="center">Sep 19</td>
-      <td>Markdown</td>
-    </tr>
-    <tr>
-      <td align="center">Sep 26</td>
       <td>Git Basics</td>
     </tr>
     <tr>
-      <td align="center">Oct 3</td>
+      <td align="center">Sep 26</td>
       <td>Makefile Basics</td>
+    </tr>
+    <tr>
+      <td align="center">Oct 3</td>
+      <td>TBA</td>
     </tr>
     <tr>
       <td align="center">Oct 10</td>
