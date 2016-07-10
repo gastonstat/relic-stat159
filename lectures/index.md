@@ -48,18 +48,18 @@ Tentative calendar, Fall 2016
     </tr>
     <tr>
       <td>Sep 15</td>
-      <td><a href="06-crisis2-makefile-basics">Reproducibility Crisis 2</a><br>
+      <td><a href="06-crisis2-github-basics">Reproducibility Crisis 2</a><br>
         The Potti scandal</td>
     </tr>
     <tr>
       <td>Sep 20</td>
-      <td><a href="07-github-basics">Github Basics</a><br>
-        Introduction to github for collaboration</td>
+      <td><a href="07-traditional-publishing">Traditional Scientific Publishing</a><br>
+        What's wrong with Scientific Publishing?</td>
     </tr>
     <tr>
       <td>Sep 22</td>
-      <td><a href="08-open-sharing">Open Sharing</a><br>
-        Open Science</td>
+      <td><a href="08-makefile-basics">Open Science and Make Basics</a><br>
+        Open Science and automating things with Makefile</td>
     </tr>
   </tbody>
 </table>
