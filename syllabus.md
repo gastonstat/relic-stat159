@@ -99,3 +99,8 @@ and will involve your questions, opinions, and participation.
 ### Academic Honesty
 
 Do your own work. Collaborating on homework is fine—but copying is not, nor is having somebody else submit assignments for you. Cheating will not be tolerated. Anyone found cheating will receive an F and will be reported to the [Center for the Student Conduct](http://sa.berkeley.edu/conduct).
+
+
+### Disability
+
+If you need accommodations for any physical, psychological, or learning disability, please speak to me after class or during office hours. Please make arrangements in a timely manner (through DSP) so that I can make the appropriate accommodations.
