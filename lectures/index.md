@@ -7,6 +7,49 @@ Tentative calendar, Fall 2016
 
 <hr>
 
+
+#### week 1 (Aug-29, Sep-01)
+
+- The Data Analysis Cycle
+- Typical way of doing things
+- The file system
+- Lab 1: house keeping
+
+
+#### week 2 (Sep-06, Sep-08)
+
+- Reproducibility basics (Intro rOpenSci)
+- Narrow focus to generalization (WaveLab)
+- Markdown & Pandoc
+
+
+#### week 3 (Sep-12, Sep-18)
+
+- Reproducibility crisis: Reinhart & Rogoff Fiasco
+- Reproducibility crisis: Potti scandal
+- Git Basics and introduction to Github
+- Lab 2: Shell Basics and Markdown
+- HW 1: shell basics
+
+
+#### week 4 (Sep-19, Sep-25)
+
+- Scientific Publication issues
+- Open Science
+- Introduction to Makefile
+- Lab 3: Git and Github Basics
+- HW 2: Markdown, git and github
+
+
+#### week 5 (Sep-26, Oct-02)
+
+- Open Data and Sharing Data
+- Getting started with dynamic documents
+- Lab 4: Make Basics
+- HW 3: first project
+
+
+<hr>
 <table>
   <thead>
     <tr>
