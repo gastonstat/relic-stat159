@@ -58,10 +58,10 @@ title: "About the Course"
 </h4>
 
 - 12 weeks
-- Lectures: 55 mins me + 30 mins you
-- Team Presentations: 25 mins
+- Lectures: usually 40 mins me + 40 mins you
+- Team Presentations: ~ 30 mins
 - Lab: practical work
-- Weekly practical assignments
+- Around 8 practical assignments
 - Weekly readings
 - There's a considerable amount of work outside class/lab
 
