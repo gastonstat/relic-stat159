@@ -89,7 +89,7 @@ title: "About the Course"
 
 - Won't take roll during lecture
 (but I would appreciate if you attend classes)
-- We expect you to attend lab sections
+- Lab attendance is mandatory
 - No late HWs (no exceptions)
 - Drop 2-3 lowest HWs
 - No make-up quizzes (no exceptions)
