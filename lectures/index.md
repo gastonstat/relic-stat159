@@ -66,13 +66,13 @@ Tentative calendar, Fall 2016
     </tr>
     <tr>
       <td>Aug 30</td>
-      <td><a href="01-introduction">Introduction</a><br>
-        The Data Analysis Cycle</td>
+      <td><a href="01-intro-filesystem">Introduction</a><br>
+        The Data Analysis Cycle, and the Filesystem</td>
     </tr>
     <tr>
       <td>Sep 01</td>
       <td><a href="02-typical-work-style">Typical Work Style</a><br>
-        The typical way of doing things</td>
+        The typical way of (NOT) doing things</td>
     </tr>
     <tr>
       <td>Sep 06</td>
