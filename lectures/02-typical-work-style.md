@@ -11,7 +11,7 @@ title: "Typical Work Style"
 <h3>
 	<a href="" target="_blank">
 		<span class="fa fa-picture-o fa-lg main-list-item-icon"></span> 
-		File-system and Bash Intro
+		How not to do a data analysis project
 	</a>
 </h3>
 
@@ -46,7 +46,7 @@ __Questions__
 
 ### Activity 2
 
-- Let’s add one more row to the data set
+- Let's add one more row to the data set
 - Now redo the analysis (time it!, how much time it took you?)
 - How many steps would you require to do the analysis again?
 - What if you had to handle this project to someone else? Is it clear where to begin, what to do?
