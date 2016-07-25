@@ -15,7 +15,7 @@ title: "Typical Work Style"
 	</a>
 </h3>
 
-In this lecture we'll talk about the typical way of doing things
+In this lecture we'll talk about the typical way of (not) doing things
 
 
 ### Activity 1
