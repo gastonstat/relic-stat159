@@ -79,9 +79,19 @@ Literate Programming</a> (by Donald Knuth)
 - About markup languages
 - Why do we need to use a markup language (and a text editor)?
 - What is the issue with word processors?
-- What is Markdown?
+
+
+#### What is Markdown?
+
+Markdown is a lightweight markup language, originally created by 
+[John Gruber](http://daringfireball.net/) and Aaron Swartz allowing people 
+"to write using an easy-to-read, easy-to-write plain text format, then convert 
+it to structurally valid XHTML (or HTML)". 
+
+- More [technical details about Markdown](http://daringfireball.net/projects/markdown/)
 - Markdown [philosophy](https://daringfireball.net/projects/markdown/syntax#philosophy)
 - Work with markdown online editors
+- Let's check some basics with [markdown live preview](http://markdownlivepreview.com/) 
 - .Rmd files in R
 
 
