@@ -49,22 +49,10 @@ Literate Programming</a> (by Donald Knuth)
 > let us concentrate rather on explaining to human beings what we want a computer to do.
 
 
-### Documentation
+### Pandoc
 
-- Documentation is key
-- Start documenting from the beginning (don't wait till mid or end of project)
-- Every data project requires documentation, and reporting
-- So you should write documents and narratives about the analysis process
-- Reproducibility requires special "authoring" tools and syntax
-- Reproducibility is reduced with WYSIWYG products (Word, Google docs, Pages, etc)
-- Instead, it is better to use a plain-text solution (WYSIWYM)
-- You will have to switch to a markup language
-	+ html: markup language of the web
-	+ latex: markup language for scientific writing
-	+ markdown: lightweight-minimalist solution
+- Recap: Reproducibility requires special "authoring" tools and markup syntaxes
 - Markdown and pandoc are good starting points
-- We' will also cover Rmarkdown and LaTeX but we'll do that later in the course
-- [Markdown Philosophy](http://daringfireball.net/projects/markdown/syntax#philosophy)
 - Philosophy of Pandoc
 - Small demos:
 	+ from markdown to html
@@ -73,31 +61,37 @@ Literate Programming</a> (by Donald Knuth)
 	+ from markdown to docx
 	+ etc
 
+Pandoc is a command-line tool. There is no graphic user interface. 
+So, to use it, you’ll need to open a terminal window.
 
-### Introduction to Markdown
+To verify that pandoc is installed, type:
 
-- About markup languages
-- Why do we need to use a markup language (and a text editor)?
-- What is the issue with word processors?
+```bash
+pandoc --version
+```
 
+By default, input is interpreted as pandoc markdown, and output is HTML 4.
+Assuming that you have a text file `doc.md` written in markdown,
+the default command to generate the html file would be:
+```bash
+pandoc doc.md
+``` 
 
-#### What is Markdown?
+The previous command can be equivalently executed with the options
+`-f` _from_ markdown, and `-t` _to_ html: 
+```bash
+pandoc -f html -t markdown doc.md
+```
 
-Markdown is a lightweight markup language, originally created by 
-[John Gruber](http://daringfireball.net/) and Aaron Swartz allowing people 
-"to write using an easy-to-read, easy-to-write plain text format, then convert 
-it to structurally valid XHTML (or HTML)". 
-
-- More [technical details about Markdown](http://daringfireball.net/projects/markdown/)
-- Markdown [philosophy](https://daringfireball.net/projects/markdown/syntax#philosophy)
-- Work with markdown online editors
-- Let's check some basics with [markdown live preview](http://markdownlivepreview.com/) 
-- .Rmd files in R
+Converting _from_ HTML _to_ markdown: 
+```bash
+pandoc -f html -t markdown
+```
 
 
 ### Resources
 
-- [WYSIWYM wikipedia](https://en.wikipedia.org/wiki/WYSIWYM)
-- [Markup Language wikipedia](https://en.wikipedia.org/wiki/Markup_language)
-- [Markdown Philosophy](http://daringfireball.net/projects/markdown/syntax#philosophy)
+- [About pandoc](http://pandoc.org/index.html)
+- [Getting started with pandoc](http://pandoc.org/getting-started.html)
+- [User's guide](http://pandoc.org/MANUAL.html)
 
