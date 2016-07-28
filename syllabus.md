@@ -7,12 +7,33 @@ title: Syllabus
   I reserve the right to make changes to the syllabus
 </p>
 
-### Description
+### Description and Outline
 
 __Statistics 159__ is a course designed to cover philosophy, software tools, 
 principles and best practices for reproducible computational research.
+Time permitting, the topics covered during the course include
+(not necessarily in this order):
 
-Prerequisites: Statistics 133, Statistics 134, and Statistics 135 (or equivalent)
+<i class="fa fa-folder"></i> Shell (Bash) & Command Line Interface (CLI)<br>
+<i class="fa fa-git"></i> Version Control with Git <br>
+<i class="fa fa-github"></i> Project Hosting with GitHub<br>
+<i class="fa fa-gears"></i> Automation with GNU Make<br>
+<i class="fa fa-spinner"></i> Running scripts non-interactively<br>
+<i class="fa fa-refresh"></i> Data Analysis Project workflow<br>
+<i class="fa fa-sitemap"></i> Project Organization <br>
+<i class="fa fa-level-down"></i> Markdown<br>
+<i class="fa fa-font"></i> LaTex and Beamer<br>
+<i class="fa fa-arrows-alt"></i> Pandoc (document converter)<br>
+<i class="fa fa-pencil-square-o"></i> Writing reports<br>
+<i class="fa fa-file-code-o"></i> Dynamic documents<br>
+<i class="fa fa-puzzle-piece"></i> R package "knitr"<br>
+<i class="fa fa-recycle"></i> R package "rmarkdown"<br>
+<i class="fa fa-sliders"></i> R package "shiny"<br>
+<i class="fa fa-bar-chart"></i> Data Visualization<br>
+<i class="fa fa-code"></i> Coding practices<br>
+<i class="fa fa-unlock"></i> Open Science<br>
+<i class="fa fa-picture-o"></i> Presentation skills<br>
+<i class="fa fa-cc"></i> Licenses
 
 
 ### Course cornerstones:
