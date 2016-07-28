@@ -28,12 +28,12 @@ your work to others.
 ### Grading Structure
 
 -  5% in-class presentation
--  5% pop quizzes (during lab discussions)
-- 10% lab attendance and work
+-  5% github repositories
+- 10% lab work and quizzes
 - 20% homework
-- 20% project 1 (individual)
-- 20% project 2 (pairs)
-- 20% project 3 (4 members)
+- 10% project 1 (individual)
+- 20% project 2 (2 members)
+- 30% project 3 (4 members)
 
 
 ### Format
@@ -67,21 +67,21 @@ and will involve your questions, opinions, and participation.
 ### Project Policy
 
 - There will be three projects (one each month)
-- If you fail to submit one project, you will fail the course
-- I will give you a list of project requirements
-- Mmeeting all requirements gives you a B, but does not guarantee an A
+- If you fail to submit any of the projects, you will fail the course
+- I will provide a list of project requirements
+- Meeting all requirements gives you a B, but does not guarantee an A
 - We are expecting that you add value and personal touch to each project
 - Projects 2 and 3 cannot be done individually (you need to COLLABORATE!)
 
 
 ### Collaboration Policy
 
-- You will have to work in teams (presentation, 2nd and 3rd project)
+- You will have to work in teams (presentation, 2nd and 3rd projects)
 - All team members must be knowledgeable of other members contributions
 - You will be responsible to do peer review and check each other’s work
-- It’s possible to have conflicts between team members
-- You will have to solve them (don’t ask me to solve your problems)
-- If you have a lot of commitments (sports, cal band) come talk to me ASAP
+- It’s possible to have conflicts between team members. If this happends,
+you will have to solve them (don't ask me to solve your problems)
+- If you have a lot of commitments (e.g. sports, cal band) come talk to me ASAP
 
 
 ### <a name="email-policy"></a>Email Policy
