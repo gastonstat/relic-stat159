@@ -87,12 +87,27 @@ and will involve your questions, opinions, and participation.
 
 ### Project Policy
 
-- There will be three projects (one each month)
+- There will be three projects (~ one each month)
 - If you fail to submit any of the projects, you will fail the course
 - I will provide a list of project requirements
 - Meeting all requirements gives you a B, but does not guarantee an A
 - We are expecting that you add value and personal touch to each project
 - Projects 2 and 3 cannot be done individually (you need to COLLABORATE!)
+
+
+### In-class Presentation Policy
+
+- There will be one in-class presentation (teams of 4 members)
+- Presentations are based on assigned readings
+- Each team will have to prepare some slides and a written report
+- The written report must be submitted no later than the day of the presentation
+- Each team will have a max of 45 minutes (~ 35 min talk + 10 min Q&A's)
+- All slides have to be publicly shared
+- Each team will have one week after the presentation to share their slides
+- At the end of the course, the slides must be available in a github repo
+- Links to the slides will be included in the course website
+- As the course advances, the grading of presentations will become more strict
+- No makeup presentations (no exceptions)
 
 
 ### Collaboration Policy
