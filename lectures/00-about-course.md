@@ -4,13 +4,13 @@ title: "About the Course"
 ---
 
 <p class="message">
-  About the Course
+  Syllabus and general information
 </p>
 
 
-<h4>
+<h3>
 	Please read the <a href="../syllabus">syllabus!</a>
-</h4>
+</h3>
 
 ### Structure of the course
 
