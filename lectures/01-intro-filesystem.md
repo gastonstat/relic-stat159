@@ -8,7 +8,7 @@ title: "Introduction"
 </p>
 
 
-## The Data Analysis Cycle
+### The Data Analysis Cycle
 
 Every Data Analysis Project goes through a cycle
 
