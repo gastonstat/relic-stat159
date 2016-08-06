@@ -4,18 +4,9 @@ title: "Typical Work Style"
 ---
 
 <p class="message">
-  Typical way of working
+  The typical way of (not) doing things: issues and problems
 </p>
 
-
-<h3>
-	<a href="" target="_blank">
-		<span class="fa fa-picture-o fa-lg main-list-item-icon"></span> 
-		How not to do a data analysis project
-	</a>
-</h3>
-
-In this lecture we'll talk about the typical way of (not) doing things
 
 ### Recap
 
@@ -109,7 +100,8 @@ __Questions__
 - Let's add one more row to the data set
 - Now redo the analysis (time it!, how much time it took you?)
 - How many steps would you require to do the analysis again?
-- What if you had to handle this project to someone else? Is it clear where to begin, what to do?
+- What if you had to handle this project to someone else? 
+Is it clear where to begin, what to do?
 - If someone else wanted to redo the report, what would that person need to know?
 
 
@@ -139,7 +131,7 @@ __Questions__
 - Let's consider an alternative way of doing things
 - We'll use R and an `.Rmd` file
 - Create the data set
-- Open an Rmd file
+- Open an `.Rmd` file
 - Write some content
 - Add a chunk to compute the summary stats
 - Add a chunk to plot the scatter diagram
@@ -154,7 +146,7 @@ What happens with this alternative way of doing things?
 
 ### Summary
 
-- Limitations of WYSIWYG tools
+- Understand limitations of WYSIWYG tools
 - Advantages of using WYSIWYM tools
 - Learn how to use a text editor (vim, emacs, nano, etc)
 - Let the computer do the tedious, laborious, repetitive work
