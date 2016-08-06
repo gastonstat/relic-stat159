@@ -9,7 +9,7 @@ title: "About the Course"
 
 
 <h3>
-	Please read the <a href="../syllabus">syllabus!</a>
+	Please read the <a href="../../syllabus">syllabus!</a>
 </h3>
 
 ### Structure of the course
