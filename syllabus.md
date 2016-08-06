@@ -14,26 +14,26 @@ principles and best practices for reproducible computational research.
 Time permitting, the topics covered during the course include
 (not necessarily in this order):
 
-<i class="fa fa-folder"></i>  Shell (Bash) & Command Line Interface (CLI)<br>
-<i class="fa fa-git"></i>  Version Control with Git <br>
-<i class="fa fa-github"></i>  Project Hosting with GitHub<br>
-<i class="fa fa-gears"></i>  Automation with GNU Make<br>
-<i class="fa fa-spinner"></i>  Running scripts non-interactively<br>
-<i class="fa fa-refresh"></i>  Data Analysis Project workflow<br>
-<i class="fa fa-sitemap"></i>  Project Organization <br>
-<i class="fa fa-level-down"></i>  Markdown<br>
-<i class="fa fa-font"></i>  LaTex and Beamer<br>
-<i class="fa fa-arrows-alt"></i>  Pandoc (document converter)<br>
-<i class="fa fa-pencil-square-o"></i>  Writing reports<br>
-<i class="fa fa-file-code-o"></i>  Dynamic documents<br>
-<i class="fa fa-puzzle-piece"></i>  R package "knitr"<br>
-<i class="fa fa-recycle"></i>  R package "rmarkdown"<br>
-<i class="fa fa-sliders"></i>  R package "shiny"<br>
-<i class="fa fa-bar-chart"></i>  Data Visualization<br>
-<i class="fa fa-code"></i>  Coding practices<br>
-<i class="fa fa-unlock"></i>  Open Science<br>
-<i class="fa fa-picture-o"></i>  Presentation skills<br>
-<i class="fa fa-cc"></i>  Licenses
+<i class="fa fa-folder"></i>&nbsp;&nbsp;Shell (Bash) & Command Line Interface (CLI)<br>
+<i class="fa fa-git"></i>&nbsp;&nbsp;Version Control with Git <br>
+<i class="fa fa-github"></i>&nbsp;&nbsp;Project Hosting with GitHub<br>
+<i class="fa fa-gears"></i>&nbsp;&nbsp;Automation with GNU Make<br>
+<i class="fa fa-spinner"></i>&nbsp;&nbsp;Running scripts non-interactively<br>
+<i class="fa fa-refresh"></i>&nbsp;&nbsp;Data Analysis Project workflow<br>
+<i class="fa fa-sitemap"></i>&nbsp;&nbsp;Project Organization <br>
+<i class="fa fa-level-down"></i>&nbsp;&nbsp;Markdown<br>
+<i class="fa fa-font"></i>&nbsp;&nbsp;LaTex and Beamer<br>
+<i class="fa fa-arrows-alt"></i>&nbsp;&nbsp;Pandoc (document converter)<br>
+<i class="fa fa-pencil-square-o"></i>&nbsp;&nbsp;Writing reports<br>
+<i class="fa fa-file-code-o"></i>&nbsp;&nbsp;Dynamic documents<br>
+<i class="fa fa-puzzle-piece"></i>&nbsp;&nbsp;R package "knitr"<br>
+<i class="fa fa-recycle"></i>&nbsp;&nbsp;R package "rmarkdown"<br>
+<i class="fa fa-sliders"></i>&nbsp;&nbsp;R package "shiny"<br>
+<i class="fa fa-bar-chart"></i>&nbsp;&nbsp;Data Visualization<br>
+<i class="fa fa-code"></i>&nbsp;&nbsp;Coding practices<br>
+<i class="fa fa-unlock"></i>&nbsp;&nbsp;Open Science<br>
+<i class="fa fa-picture-o"></i>&nbsp;&nbsp;Presentation skills<br>
+<i class="fa fa-cc"></i>&nbsp;&nbsp;Licenses
 
 
 ### Course cornerstones:
