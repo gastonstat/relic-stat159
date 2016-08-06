@@ -4,29 +4,24 @@ title: "Introduction"
 ---
 
 <p class="message">
-  Introduction: The Data Analysis Cycle and the Filesystem
+  The Data Analysis Cycle and the Filesystem
 </p>
 
 
-<h3>
-	<span class="fa fa-picture-o fa-lg main-list-item-icon"></span> 
-	<a href="" target="_blank">Introduction</a>
-</h3>
+## The Data Analysis Cycle
 
+Every Data Analysis Project goes through a cycle
 
 <a href="http://www.phdcomics.com/comics/archive/phd053104s.gif" target="_blank"><img src="http://www.phdcomics.com/comics/archive/phd053104s.gif"></a>
-
-
-### The Data Analysis Cycle
 
 - Starting point: some raw data set(s)
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Hypothesis testing
-- Simlation(s)
+- Simulation(s)
 - Modeling
 - Visualization(s)
-- Reporting and communicating
+- Report and communication
 
 
 ### Toy Example
