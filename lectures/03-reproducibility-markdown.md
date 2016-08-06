@@ -1,18 +1,11 @@
 ---
 layout: lecture
-title: "Reproducibility Notions"
+title: "Reproducibility Notions - part 1"
 ---
 
 <p class="message">
   Basics of Reproducibility
 </p>
-
-
-<h3>
-	<a href="" target="_blank">
-		<span class="fa fa-picture-o fa-lg main-list-item-icon"></span> 
-	Reproducibility</a>
-</h3>
 
 
 ### Assigned Reading
