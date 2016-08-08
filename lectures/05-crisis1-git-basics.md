@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Git Basics"
+title: "Reproducibility Crisis and Git Basics"
 ---
 
 <p class="message">
@@ -23,13 +23,13 @@ title: "Git Basics"
 - Who are Reinhart and Rogoff (R&R)?
 - What is their affiliation?
 - About their working paper "Growth in times of debt" (GTD)
-- What is the main thesis of the paper?
-- What are their main findings?
-- What are their conclusions?
+	+ What is the main thesis of the paper?
+	+ What are their main findings?
+	+ What are their conclusions?
 - Story behind R&R fiasco:
-- After the publication of GTD, who tries to reproduce their work?
-- What is the story of the irreproducibility attempt?
-- What is the cause of the irreproducibility?
+	+ After the publication of GTD, who tries to reproduce their work?
+	+ What is the story of the irreproducibility attempt?
+	+ What is the cause of the irreproducibility?
 
 
 ### Activity 1
@@ -43,10 +43,7 @@ title: "Git Basics"
 -----
 
 
-<h4>
-	<span class="fa fa-bars fa-lg main-list-item-icon"></span>
-	Basics of Version Control with Git
-</h4>
+###	Basics of Version Control with Git
 
 - Until completion, a project is a living creature
 	+ once completed, it may become dormant
@@ -63,7 +60,7 @@ title: "Git Basics"
 	+ adding, editing, deleting, or moving file
 - How to write clear messages that describe the changes
 - How to compare different versions of a file (line by line)
-- How to undo changes that you've made even
+- How to undo changes that you've made
 
 
 Version control is an essential skill for developers to master, 
@@ -95,7 +92,7 @@ and Git is becoming the most popular version control system.
 
 <h4>
 	<span class="fa fa-book fa-lg main-list-item-icon"></span>
-	Reading
+	Recommended Reading
 </h4>
 
 - [Pro Git - Chapter 1: Getting Started](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control), sections 1.1 to 1.8
@@ -103,31 +100,13 @@ and Git is becoming the most popular version control system.
 - [Pro Git - Chapter 8: Customizing Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration), section 8.1
 
 
-<h4>
-	<span class="fa fa-code fa-lg main-list-item-icon"></span>
-	Tutorial
-</h4>
-
-<a href="http://swcarpentry.github.io/git-novice/index.html" target="_blank">Software Carpentry's Git Novice</a>
-
-
-<h4>
-	<span class="fa fa-flask fa-lg main-list-item-icon"></span>
-	Lab
-</h4>
-
-<ul>
-	<li><a href="https://github.com/gastonstat/stat259/blob/gh-pages/tutorials/git-basics.md" target="_blank">Git Basics</a></li>
-	<li><a href="https://github.com/gastonstat/stat259/blob/gh-pages/tutorials/git-workflow.md" target="_blank">Git Workflow</a></li>
-</ul>
-
 ------
 
 
-<h4>
+<h3>
 	<span class="fa fa-info-circle fa-lg main-list-item-icon"></span>
 	More Info
-</h4>
+</h3>
 
 - [Git Reference](http://gitref.org/index.html). Quick reference for learning and remembering the most important and commonly used Git commands.
 - [Pro Git Book](https://git-scm.com/book/en/v2) (by Scott Chacon and Ben Straub)
