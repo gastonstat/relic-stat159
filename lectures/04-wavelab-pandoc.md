@@ -81,8 +81,12 @@ Converting _from_ HTML _to_ markdown:
 pandoc -f html -t markdown
 ```
 
+-----
 
-### Resources
+<h3>
+	<span class="fa fa-info-circle fa-lg main-list-item-icon"></span>
+	More Info
+</h3>
 
 - [About pandoc](http://pandoc.org/index.html)
 - [Getting started with pandoc](http://pandoc.org/getting-started.html)

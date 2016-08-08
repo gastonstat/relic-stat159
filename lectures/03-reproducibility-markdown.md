@@ -86,8 +86,12 @@ it to structurally valid XHTML (or HTML)".
 - Let's check some basics with [markdown live preview](http://markdownlivepreview.com/) 
 - .Rmd files in R
 
+-----
 
-### Resources
+<h3>
+	<span class="fa fa-info-circle fa-lg main-list-item-icon"></span>
+	More Info
+</h3>
 
 - [WYSIWYM wikipedia](https://en.wikipedia.org/wiki/WYSIWYM)
 - [Markup Language wikipedia](https://en.wikipedia.org/wiki/Markup_language)
