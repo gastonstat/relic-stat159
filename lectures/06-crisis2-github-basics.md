@@ -36,30 +36,16 @@ Baggerly and Coombes have put together a "starter set"
 
 -----
 
-<p class="message">
-  Remote Repositories and Github
-</p>
-
-<h4>
-	<span class="fa fa-picture-o fa-lg main-list-item-icon"></span>
-	Slides
-</h4>
-
-<a href="" target="_blank">Github Basics</a>
-
-
-<h4>
-	<span class="fa fa-bars fa-lg main-list-item-icon"></span>
-	Agenda
-</h4>
+### Remote Repositories and Github
 
 - Remote Repositories
 - Github
 - Make sure you open a Github account
 - Educational accounts (5 private repos)
 - Choose your username "wiseley" (it may last forever)
-- Clone repos
-- Fork repos
-- Creating a new repository
 - Great for Collaboration
+- Creating a new remote repository
+- Adding a remote repo to a local repo
+- Cloning repos
+- Forking repos
 
