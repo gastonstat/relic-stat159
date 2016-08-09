@@ -55,6 +55,7 @@ __Answer the questions addressed in pages 59-60:__
 - How accurately can we predict future sales?
 - Is the relationship linear?
 
+-----
 
 
 ### Regression Analysis with R
