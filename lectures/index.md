@@ -57,8 +57,18 @@ Tentative calendar, Fall 2016
     </tr>
     <tr>
       <td>Sep 22</td>
-      <td><a href="08-makefile-basics">Open Science and Make Basics</a><br>
+      <td><a href="08-openness-makefile-basics">Open Science and Make Basics</a><br>
         Open Science and automating things with Makefile</td>
+    </tr>
+    <tr>
+      <td>Sep 27</td>
+      <td><a href="09-dynamic-docs1">Dynamic Documents 1</a><br>
+        Dynamic Documents with R</td>
+    </tr>
+    <tr>
+      <td>Sep 29</td>
+      <td><a href="10-dynamic-docs2">Dynamic Documents 2</a><br>
+        Dynamic Documents and Regression Analysis</td>
     </tr>
   </tbody>
 </table>
