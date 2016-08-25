@@ -60,25 +60,28 @@ Since all Data Analysis Projects involve working with files, we need to
 discuss/recap the concept of filesystem and path names.
 
 - Navigating the file system
-	- Understand the tree structure
-	- Pathnames: absolute and relative
+	+ Understand the tree structure
+	+ Pathnames: absolute and relative
 - The Root directory `/`
 - The working directory
 - The home directory
-- Special directories: home `/~`, current `.`, parent `..`
+- Special directories: 
+	+ home `/~`
+	+ current `.`
+	+ parent `..`
 - Absolute names
 - Relative names
 - Descending the tree
 - Ascending the tree
 
-Work on handout for path names
+__Work on handout for path names__
 
 
 ### Summary
 
 - A data analysis project can be viewed as an iterative pipeline
 - A data analysis project involves working with files
-- There is a implicit network of relationships among files
+- There is an implicit network of relationships among files
 - It's fundamental to set up a good file structure
 - You should know how to navigate such file structure (i.e. path names)
 - A data analysis project may experience a variety of changes
