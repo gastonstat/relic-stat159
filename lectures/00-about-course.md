@@ -68,9 +68,15 @@ We are going to be using several tools along this course. Which means that you w
 	- [Linux](https://cran.r-project.org/bin/linux/)
 - __RStudio__ (IDE for R)
 	- [Downloads](https://www.rstudio.com/products/rstudio/download/)
+- __Rtools__ (tools for building R in Windows)
+	- If you work with Windows, you will need to download Rtools
+	- [Download](https://cran.r-project.org/bin/windows/Rtools/)
 - __Tex/LaTeX__ (typesetting system)
 	- [MacTeX](https://tug.org/mactex/) (Mac OS X)
 	- [MikTeX](http://miktex.org/download) (Windows)
 - __pandoc__ (universal document converter)
 	- [Installing](http://pandoc.org/installing.html)
+- __Xcode__ (IDE for Mac OS X)
+	- If you work on a Mac, you will need to install Xcode
+	- [Mac OS X](https://developer.apple.com/xcode/downloads/)
 
