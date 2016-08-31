@@ -8,6 +8,9 @@ title: "Introduction"
 </p>
 
 
+<a href="https://docs.google.com/presentation/d/1stqVIK-jaiFpQQRZ4JaU9OVwfArgKEDyMfEZVfVlUBY/pub?start=false&loop=false&delayms=3000" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i>Slides</a>
+
+
 ### The Data Analysis Cycle
 
 Every Data Analysis Project goes through a cycle
