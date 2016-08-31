@@ -8,7 +8,9 @@ title: "Introduction"
 </p>
 
 
-<a href="https://docs.google.com/presentation/d/1stqVIK-jaiFpQQRZ4JaU9OVwfArgKEDyMfEZVfVlUBY/pub?start=false&loop=false&delayms=3000" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i>Slides</a>
+<h3>
+<a href="https://docs.google.com/presentation/d/1stqVIK-jaiFpQQRZ4JaU9OVwfArgKEDyMfEZVfVlUBY/pub?start=false&loop=false&delayms=3000" target="_blank"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+</h3>
 
 
 ### The Data Analysis Cycle
