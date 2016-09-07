@@ -66,17 +66,20 @@ pandoc --version
 By default, input is interpreted as pandoc markdown, and output is HTML 4.
 Assuming that you have a text file `doc.md` written in markdown,
 the default command to generate the html file would be:
+
 ```bash
 pandoc doc.md
 ``` 
 
 The previous command can be equivalently executed with the options
 `-f` _from_ markdown, and `-t` _to_ html: 
+
 ```bash
 pandoc -f html -t markdown doc.md
 ```
 
-Converting _from_ HTML _to_ markdown: 
+Converting _from_ HTML _to_ markdown:
+
 ```bash
 pandoc -f html -t markdown
 ```
