@@ -41,7 +41,7 @@ command line (i.e. provides a command line access to Unix).
 The terminal is where you type the commands. 
 - The __kernel__ is the core of the operating system in Unix. 
 It's what takes care of allocating time and memory to program.
-- __Shell__ is the outside of the kernell. The shell is the outer layer of the 
+- __Shell__ is the outside of the kernel. The shell is the outer layer of the 
 operating system. That's what you see when you open up a Terminal window.
 - The shell interacts with the user (think of it as your working environment). 
 Every time you execute a command, the shell will send requests to the kernel. 
