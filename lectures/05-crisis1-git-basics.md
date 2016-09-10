@@ -45,6 +45,9 @@ title: "Reproducibility Crisis and Git Basics"
 
 ###	Basics of Version Control with Git
 
+<a href="https://docs.google.com/presentation/d/1qJ4LhB2WQzDqVdWLvFF69wsQRbbPJeY2PxldZPn9PAU/pub?start=false&loop=false&delayms=3000" target="_blank"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+
+
 - Until completion, a project is a living creature
 	+ once completed, it may become dormant
 	+ or it may keep evolving
