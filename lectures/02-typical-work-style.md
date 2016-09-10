@@ -69,6 +69,11 @@ by the shell and send to the operating system (based on Unix).
 - `mv`
 
 
+### How not to do things
+
+<a href="https://docs.google.com/presentation/d/1kG3nnlPuL8D78knTKT33XmWL47zDigILmZqCAnjUSgQ/pub?start=false&loop=false&delayms=3000" target="_blank"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+
+
 ### Activity 1
 
 - Form groups of 2 or 3 people, make sure at least one person knows R
