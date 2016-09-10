@@ -8,11 +8,6 @@ title: "Introduction"
 </p>
 
 
-<h3>
-<a href="https://docs.google.com/presentation/d/1stqVIK-jaiFpQQRZ4JaU9OVwfArgKEDyMfEZVfVlUBY/pub?start=false&loop=false&delayms=3000" target="_blank"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
-</h3>
-
-
 ### The Data Analysis Cycle
 
 Every Data Analysis Project goes through a cycle
@@ -48,6 +43,8 @@ Let's consider the cyclone data set, described in
 
 
 ### Network of relationships among files
+
+<a href="https://docs.google.com/presentation/d/1stqVIK-jaiFpQQRZ4JaU9OVwfArgKEDyMfEZVfVlUBY/pub?start=false&loop=false&delayms=3000" target="_blank"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
 
 - Classification of files (inputs, instructions, outputs)
 - How does a data analysis project looks like from the files standpoint?
