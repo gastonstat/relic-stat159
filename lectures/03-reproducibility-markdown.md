@@ -40,6 +40,11 @@ title: "Reproducibility Notions - part 1"
 - How would you share it?
 
 
+### Reproducibility Notions
+
+<a href="https://docs.google.com/presentation/d/1Bj5_kFWzKaAtvi13EPesVSYAyUt-XT8xv9TBsCVdo_A/pub?start=false&loop=false&delayms=3000" target="_blank"><i class="fa fa-picture-o" aria-hidden="true"></i> Slides</a>
+
+
 -----
 
 
