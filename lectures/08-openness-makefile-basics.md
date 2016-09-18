@@ -18,6 +18,8 @@ title: "Open Science and Make Basics"
 
 <a href="https://opensource.org/osd-annotated" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> The Open Source Definition</a> (by Open Source Initiative)
 
+<a href="http://opendefinition.org/" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> The Open Definition</a> (by Open Knowledge)
+
 
 ### Discussion
 
