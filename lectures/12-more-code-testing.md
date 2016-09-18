@@ -13,13 +13,26 @@ title: "Code and Functions part 2"
 
 <a href="http://sciencecodemanifesto.org/" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Science Code Manifesto</a> (by Climate Code Foundation)
 
+- Who is Nick Barnes (the author of the manifesto)?
+- What is the [Climate Code Foundation](http://climatecode.org/)?
+- Describe the five principles of the manifesto
+- __Source Code:__ How can we make our source code available to reviewers and 
+readers of a paper?
+- __Copyright:__ How do we clearly state the copyright ownership and license of our source code?
+- __Credit:__ When we use or adapt source code that someone else wrote, ho do we give credit?
+- __Curation:__ How do you make sure that source code remains available?
+
+
 <a href="http://www.catb.org/~esr/faqs/hacker-howto.html#status" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> How To Become A Hacker: Status in the Hacker Culture</a> (by Eric Steven Raymond)
 
 
-- Against: Reasons to not share code
-- In favor: Reasons to share code
-- Discuss the typical "excuses" to not share code
-- Why share your code?
+- Status in the Hacker Culture:
+	1. Write open-source software
+	2. Help test and debug open-source software
+	3. Publish useful information
+	4. Help keep the infrastructure working
+	5. Serve the hacker culture itself
+- Talk about those _few things not to do_ mentioned in "How to become a hacker"
 
 -----
 
