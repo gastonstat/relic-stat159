@@ -71,7 +71,7 @@ Tentative calendar, Fall 2016
         Dynamic Documents and Regression Analysis</td>
     </tr>
     <tr>
-      <td>Oct 03</td>
+      <td>Oct 04</td>
       <td><a href="11-share-code-functions">Sharing Code and Functions</a><br>
         Sharing Code and Writing Functions</td>
     </tr>
