@@ -42,3 +42,41 @@ title: "Scientific Publishing"
 
 - Form groups of 3-4 people
 - Propose solutions to the publishing system
+
+
+-----
+
+<p class="message">
+  Basics of Makefiles
+</p>
+
+Installation for Windows users:
+
+- Make for Windows: [http://gnuwin32.sourceforge.net/packages/make.htm](http://gnuwin32.sourceforge.net/packages/make.htm)
+- Download the Setup program: [http://gnuwin32.sourceforge.net/packages/make.htm](http://gnuwin32.sourceforge.net/packages/make.htm)
+- After installing Make, check if it works. Open the command line and type:
+`make --version`
+
+About Make
+
+- __Automation:__ The ability to rapidly re-create an analysis when data
+and/or input changes (as it always does).
+- Scripts to automate things
+- What is GNU Make?
+- We won't really use Make for compiling, but for automating tasks
+- The main advantage is its capability to track timestamps
+- It only executes things that have changed
+- I've found that the learning curve is a bit steep
+- We'll keep working with Make throughout the course,
+so we will start with very simple makefiles
+
+-----
+
+<h3>
+	<span class="fa fa-info-circle fa-lg main-list-item-icon"></span>
+	More Info
+</h3>
+
+- <a href="https://www.youtube.com/watch?v=Lyp36ku7D0A" target="_blank">GNU Make and Makefiles</a> by <a href="https://www.andysayler.com/" target="_blank">Andy Sayler</a>
+- [GNU Make Manual](http://www.gnu.org/software/make/manual/make.html)
+- [Introduction to making Makefiles](http://www.jfranken.de/homepages/johannes/vortraege/make_inhalt.en.html) by Johannes Franken
