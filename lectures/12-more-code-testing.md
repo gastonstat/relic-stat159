@@ -11,28 +11,22 @@ title: "Code and Functions part 2"
 ### Assigned Readings
 
 
-<a href="http://sciencecodemanifesto.org/" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Science Code Manifesto</a> (by Climate Code Foundation)
+<a href="https://cos.io/top/" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> The Transparency and Openness Promotion Guidelines</a> (by David Mellor)
 
-- Who is Nick Barnes (the author of the manifesto)?
-- What is the [Climate Code Foundation](http://climatecode.org/)?
-- Describe the five principles of the manifesto
-- __Source Code:__ How can we make our source code available to reviewers and 
-readers of a paper?
-- __Copyright:__ How do we clearly state the copyright ownership and license of our source code?
-- __Credit:__ When we use or adapt source code that someone else wrote, ho do we give credit?
-- __Curation:__ How do you make sure that source code remains available?
+<a href="http://science.sciencemag.org/content/348/6242/1422.full" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Promoting an open research culture</a> (by Nosek et al, 2015)
 
+- What is the Transparency and Openness Promotion (TOP) Committee?
+- What is the main goal of TOP?
+- What are the eight standards in the TOP guidelines?
+	+ Citation
+	+ Data transparency
+	+ Analytic methods transparency
+	+ Research materials transparency
+	+ Design and analysis transparency
+	+ Preregistration of studies
+	+ Preregistration of analysis plans
+	+ Replication
 
-<a href="http://www.catb.org/~esr/faqs/hacker-howto.html#status" target="_blank"><i class="fa fa-newspaper-o" aria-hidden="true"></i> How To Become A Hacker: Status in the Hacker Culture</a> (by Eric Steven Raymond)
-
-
-- Status in the Hacker Culture:
-	1. Write open-source software
-	2. Help test and debug open-source software
-	3. Publish useful information
-	4. Help keep the infrastructure working
-	5. Serve the hacker culture itself
-- Talk about those _few things not to do_ mentioned in "How to become a hacker"
 
 -----
 
