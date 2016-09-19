@@ -80,6 +80,31 @@ Tentative calendar, Fall 2016
       <td><a href="12-more-code-testing">More </a><br>
         More on Sharing Code and Testing Functions</td>
     </tr>
+    <tr>
+      <td>Oct 11</td>
+      <td><a href="13-licenses-cc">Licenses for Media</a><br>
+        Creative Commons Licenses</td>
+    </tr>
+    <tr>
+      <td>Oct 13</td>
+      <td><a href="14-licenses-code">Licenses for Code</a><br>
+        More on Sharing Code and Testing Functions</td>
+    </tr>
+    <tr>
+      <td>Oct 18</td>
+      <td><a href="15-sharing-data1">Sharing Data 1</a><br>
+        Simple ways to share your data</td>
+    </tr>
+    <tr>
+      <td>Oct 20</td>
+      <td><a href="16-sharing-data2">Sharing Data 2</a><br>
+        Principles for Open Data in Science</td>
+    </tr>
+    <tr>
+      <td>Oct 25</td>
+      <td><a href="17-sharing-data3">Sharing Data 3</a><br>
+        Organizing data in spreadsheets</td>
+    </tr>
   </tbody>
 </table>
 
