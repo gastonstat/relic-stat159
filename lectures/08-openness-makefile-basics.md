@@ -71,6 +71,7 @@ so we will start with very simple makefiles
 	More Info
 </h3>
 
+- [Tutorial about basics of GNU Make](https://github.com/unix-tools/tutorial-makefiles)
 - <a href="https://www.youtube.com/watch?v=Lyp36ku7D0A" target="_blank">GNU Make and Makefiles</a> by <a href="https://www.andysayler.com/" target="_blank">Andy Sayler</a>
 - [GNU Make Manual](http://www.gnu.org/software/make/manual/make.html)
 - [Introduction to making Makefiles](http://www.jfranken.de/homepages/johannes/vortraege/make_inhalt.en.html) by Johannes Franken
