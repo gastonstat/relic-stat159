@@ -54,6 +54,7 @@ Installation for Windows users:
 
 - Make for Windows: [http://gnuwin32.sourceforge.net/packages/make.htm](http://gnuwin32.sourceforge.net/packages/make.htm)
 - Download the Setup program: [http://gnuwin32.sourceforge.net/packages/make.htm](http://gnuwin32.sourceforge.net/packages/make.htm)
+- How to use GNU Make on Windows?: [http://stackoverflow.com/questions/12881854/how-to-use-gnu-make-on-windows](http://stackoverflow.com/questions/12881854/how-to-use-gnu-make-on-windows)
 - After installing Make, check if it works. Open the command line and type:
 `make --version`
 
