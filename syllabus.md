@@ -107,8 +107,8 @@ and will involve your questions, opinions, and participation.
 - At the end of the course, the slides must be available in a github repo
 - Links to the slides will be included in the course website
 - As the course advances, the grading of presentations will become more strict
-- No makeup presentations (no exceptions)
-
+- No makeup present
+- [List of Presentations](https://docs.google.com/spreadsheets/d/1Nj69mdc6AU3tAo3kClGLjqgF2n5fkhMUsa2T0PzcLGA/pubhtml)
 
 ### Collaboration Policy
 
