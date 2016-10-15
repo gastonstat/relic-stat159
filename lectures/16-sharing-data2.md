@@ -31,5 +31,4 @@ What license(s) can we use?
 	5. The instruction list/script
 
 
-- [Organizing data in spreadsheets](http://kbroman.org/dataorg/) by Karl Broman
 
