@@ -107,6 +107,11 @@ Tentative calendar, Fall 2016
     </tr>
     <tr>
       <td>Oct 27</td>
+      <td>Regression Methods<br>
+        No assigned reading (no presentation)</td>
+    </tr>
+    <tr>
+      <td>Nov 01</td>
       <td><a href="18-tidy-data">Tidy Data</a><br>
         Getting data ready to be analyzed</td>
     </tr>
