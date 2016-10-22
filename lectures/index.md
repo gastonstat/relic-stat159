@@ -105,6 +105,11 @@ Tentative calendar, Fall 2016
       <td><a href="17-sharing-data3">Sharing Data 3</a><br>
         Organizing data in spreadsheets</td>
     </tr>
+    <tr>
+      <td>Oct 27</td>
+      <td><a href="18-tidy-data">Tidy Data</a><br>
+        Getting data ready to be analyzed</td>
+    </tr>
   </tbody>
 </table>
 
