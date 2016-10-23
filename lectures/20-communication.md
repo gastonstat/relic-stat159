@@ -40,6 +40,18 @@ title: "Communication"
 - Rule 10: Provide Appropriate Acknowledgments
 
 
+<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453" target="_blank">Ten Simple Rules for Writing Research Papers</a> (by Weixiong Zhang).
+
+- Rule 1: Make It a Driving Force
+- Rule 2: Less Is More
+- Rule 3: Pick the Right Audience
+- Rule 4: Be Logical
+- Rule 5: Be Thorough and Make It Complete
+- Rule 6: Be Concise
+- Rule 7: Be Artistic
+- Rule 8: Be Your Own Judge
+- Rule 9: Test the Water in Your Own Backyard
+- Rule 10: Build a Virtual Team of Collaborators
 
 -----
 
