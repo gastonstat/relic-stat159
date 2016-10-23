@@ -115,6 +115,21 @@ Tentative calendar, Fall 2016
       <td><a href="18-tidy-data">Tidy Data</a><br>
         Getting data ready to be analyzed</td>
     </tr>
+    <tr>
+      <td>Nov 03</td>
+      <td><a href="19-collaboration">Collaboration</a><br>
+        Cultivating Open Science and Cross-Disciplinary Collaboration</td>
+    </tr>
+    <tr>
+      <td>Nov 08</td>
+      <td><a href="20-communication">Communication</a><br>
+        Better figures and oral presentations</td>
+    </tr>
+    <tr>
+      <td>Nov 10</td>
+      <td><a href="21-wrapup">Wrapping Up</a><br>
+        Reproducible Computational Research</td>
+    </tr>
   </tbody>
 </table>
 
